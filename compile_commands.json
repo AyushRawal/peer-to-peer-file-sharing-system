@@ -1,0 +1,58 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-o",
+      "utils",
+      "common/utils.cpp"
+    ],
+    "directory": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3",
+    "file": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3/common/utils.cpp",
+    "output": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3/utils"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-Wpedantic",
+      "-Wextra",
+      "-Wconversion",
+      "-Wshadow",
+      "-Wsign-conversion",
+      "-Wcast-align",
+      "-pedantic",
+      "-std=c++17",
+      "utils",
+      "-o",
+      "tracker.out",
+      "tracker/tracker.cpp"
+    ],
+    "directory": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3",
+    "file": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3/tracker/tracker.cpp",
+    "output": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3/tracker.out"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Wall",
+      "-Wpedantic",
+      "-Wextra",
+      "-Wconversion",
+      "-Wshadow",
+      "-Wsign-conversion",
+      "-Wcast-align",
+      "-pedantic",
+      "-std=c++17",
+      "utils",
+      "-o",
+      "client.out",
+      "client/client.cpp"
+    ],
+    "directory": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3",
+    "file": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3/client/client.cpp",
+    "output": "/home/rawal/code/College/sem1/AOS/Assignment_3/2024201036_A3/client.out"
+  }
+]

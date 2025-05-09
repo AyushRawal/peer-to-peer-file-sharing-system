@@ -1,0 +1,17 @@
+# Set the column limit for line length
+ColumnLimit: 120
+
+# indent case labels in switch statements
+IndentCaseLabels: true
+
+# Allows merging of short blocks onto a single line.
+AllowShortBlocksOnASingleLine: true
+
+# Allows merging of short 'if' statements onto a single line.
+AllowShortIfStatementsOnASingleLine: AllIfsAndElse
+
+# Allows merging of short loops (for, while) onto a single line.
+AllowShortLoopsOnASingleLine: true
+
+# Allows merging of short case labels onto a single line.
+AllowShortCaseLabelsOnASingleLine: true
